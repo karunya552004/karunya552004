@@ -13,4 +13,4 @@
 
 - 😄 Pronouns:She/Her. I value inclusivity and respect for all individuals.
 
-- 📄 Know more about me :[Karunya A (resume).pdf](https://github.com/user-attachments/files/16836298/Karunya.A.resume.pdf)
+- 📄 Know more about me :(https://drive.google.com/file/d/1BF9nkMLLL1mG7a5n2BN4UXKPSRstbbke/view)

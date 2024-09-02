@@ -1,4 +1,4 @@
-![linkedin-original](https://github.com/user-attachments/assets/fbe856c3-9fe9-4ddd-888d-17ec9b1f27b2)- 👋 Hi, I’m Karunya Anandakumar.
+ 👋 Hi, I’m Karunya Anandakumar.
   
 - 👩🏻‍🎓 IV year Computer Science student at Hindusthan College of Engineering and Technology, Coimbatore.
   
@@ -10,5 +10,4 @@
 
 - 📄 Know more about me :(https://drive.google.com/file/d/1BF9nkMLLL1mG7a5n2BN4UXKPSRstbbke/view)
 
-https://www.linkedin.com/in/karunya-anandakumar-8361862a0/
-![Untitled design](https://github.com/user-attachments/assets/85bc102a-3b8c-4b72-9cee-85130405b559)
+- https://www.linkedin.com/in/karunya-anandakumar-8361862a0/![Untitled design](https://github.com/user-attachments/assets/85bc102a-3b8c-4b72-9cee-85130405b559)

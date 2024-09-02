@@ -10,5 +10,4 @@
 
 - 📄 Know more about me :(https://drive.google.com/file/d/1BF9nkMLLL1mG7a5n2BN4UXKPSRstbbke/view)
 
-- ![Untitled design](https://github.com/user-attachments/assets/af3dafa8-752b-4ded-8c46-22aeff588939) https://www.linkedin.com/in/karunya-anandakumar-8361862a0/
 

@@ -10,5 +10,5 @@
 
 - 📄 Know more about me :(https://drive.google.com/file/d/1BF9nkMLLL1mG7a5n2BN4UXKPSRstbbke/view)
 
-  
-![Uploading link![linkedin-original](https://github.com/user-attachments/assets/bd0096b7-b63c-4c05-a995-d8ebb2663974)edin-original.svg…]()  https://www.linkedin.com/in/karunya-anandakumar-8361862a0/
+https://www.linkedin.com/in/karunya-anandakumar-8361862a0/
+![Untitled design](https://github.com/user-attachments/assets/85bc102a-3b8c-4b72-9cee-85130405b559)

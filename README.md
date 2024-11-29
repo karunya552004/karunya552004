@@ -1,4 +1,8 @@
  👋 Hi, I’m Karunya Anandakumar.
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+### :woman_technologist: About Me :
  
 - 👩🏻‍🎓 IV year Computer Science student at Hindusthan College of Engineering and Technology, Coimbatore.
   
@@ -21,9 +25,3 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-<div id="badges">
-  <a href="www.linkedin.com/in/karunya-anandakumar-8361862a0">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>

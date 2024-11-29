@@ -1,4 +1,7 @@
  👋 Hi, I’m Karunya Anandakumar.
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
   
 - 👩🏻‍🎓 IV year Computer Science student at Hindusthan College of Engineering and Technology, Coimbatore.
   
@@ -21,4 +24,9 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>

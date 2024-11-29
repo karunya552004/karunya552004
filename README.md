@@ -8,6 +8,6 @@
 
 - 📧 Feel free to reach out to me at "karunya050504@gmail.com". I’m always open to networking, discussing new ideas, or exploring potential collaborations
 
-- 📄 Know more about me :(https://drive.google.com/file/d/1BF9nkMLLL1mG7a5n2BN4UXKPSRstbbke/view)
+- 📄 Know more about me :(https://drive.google.com/file/d/1R8DA7YLebQOlv4UOKa9HjMyCJxeo-Uoi/view?usp=drivesdk)
 
 

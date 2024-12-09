@@ -10,7 +10,7 @@
 
 - 📧 Feel free to reach out to me at "karunya050504@gmail.com". I’m always open to networking, discussing new ideas, or exploring potential collaborations
 
-- 📄 Know more about me :(https://drive.google.com/file/d/1R8DA7YLebQOlv4UOKa9HjMyCJxeo-Uoi/view?usp=drivesdk)
+- 📄 Know more about me :(https://docs.google.com/document/d/1cc3VCV6RmQb9S31vrhnc9OWQibaw5ziZp37P3K5uVe4/edit?usp=drivesdk)
 
 <h3>When I code, I rely on</h3>
 <p>
